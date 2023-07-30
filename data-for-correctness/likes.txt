@@ -1,0 +1,9 @@
+wsdbm:User1,wsdbm:Product12
+wsdbm:User2,wsdbm:Product20
+wsdbm:User3,wsdbm:Product42
+wsdbm:User4,wsdbm:Product50
+wsdbm:User5,wsdbm:Product54
+wsdbm:User6,wsdbm:Product57
+wsdbm:User7,wsdbm:Product92
+wsdbm:User8,wsdbm:Product13
+wsdbm:User9,wsdbm:Product14

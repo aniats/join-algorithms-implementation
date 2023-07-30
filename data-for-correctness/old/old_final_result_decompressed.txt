@@ -1,0 +1,9 @@
+wsdbm:User1,wsdbm:User9,wsdbm:User1,wsdbm:Product12,wsdbm:Review24
+wsdbm:User9,wsdbm:User8,wsdbm:User2,wsdbm:Product20,wsdbm:Review48
+wsdbm:User8,wsdbm:User7,wsdbm:User3,wsdbm:Product42,wsdbm:Review118
+wsdbm:User7,wsdbm:User6,wsdbm:User4,wsdbm:Product50,wsdbm:Review215
+wsdbm:User6,wsdbm:User5,wsdbm:User5,wsdbm:Product54,wsdbm:Review247
+wsdbm:User5,wsdbm:User4,wsdbm:User6,wsdbm:Product57,wsdbm:Review253
+wsdbm:User4,wsdbm:User3,wsdbm:User7,wsdbm:Product92,wsdbm:Review282
+wsdbm:User3,wsdbm:User2,wsdbm:User8,wsdbm:Product13,wsdbm:Review291
+wsdbm:User2,wsdbm:User1,wsdbm:User9,wsdbm:Product14,wsdbm:Review432

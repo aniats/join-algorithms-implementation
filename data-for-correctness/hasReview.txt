@@ -1,0 +1,9 @@
+wsdbm:Product12,wsdbm:Review24
+wsdbm:Product20,wsdbm:Review48
+wsdbm:Product42,wsdbm:Review118
+wsdbm:Product50,wsdbm:Review215
+wsdbm:Product54,wsdbm:Review247
+wsdbm:Product57,wsdbm:Review253
+wsdbm:Product92,wsdbm:Review282
+wsdbm:Product13,wsdbm:Review291
+wsdbm:Product14,wsdbm:Review432
